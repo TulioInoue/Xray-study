@@ -1,5 +1,10 @@
 datasciencevenv
 archive
 dataset
-chest_xray
+chest-xray
 lambda
+*.zip
+download
+segmentation
+python
+models
